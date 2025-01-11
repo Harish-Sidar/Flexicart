@@ -1,17 +1,17 @@
-# CodeHunt - Online Marketplace for Digital Freelance services (MERN STACK Web Application)
+# flexicart - Online Marketplace for Digital Freelance services (MERN STACK Web Application)
 
-CodeHunt is a FULL STACK (MERN STACK) Web Application. 
+ flexicart is a FULL STACK (MERN STACK) Web Application. 
 It is an online Marketplace / Platform that connects freelancers and clients from all around the Globe.
 
-![CodeHunt ](./assets/img1.png?raw=true " CodeHunt ")
+![ flexicart ](./assets/img1.png?raw=true " CodeHunt ")
 
-![CodeHunt](./assets/img3.png?raw=true " CodeHunt ")
+![ flexicart](./assets/img3.png?raw=true " CodeHunt ")
 
-![CodeHunt](./assets/img4.png?raw=true " CodeHunt ")
+![ flexicart](./assets/img4.png?raw=true " CodeHunt ")
 
-![CodeHunt](./assets/img5.png?raw=true " CodeHunt ")
+![ flexicart](./assets/img5.png?raw=true " CodeHunt ")
 
-![CodeHunt](./assets/img6.png?raw=true " CodeHunt ")
+![ flexicart](./assets/img6.png?raw=true " CodeHunt ")
 
 ## Key Features
 
@@ -67,7 +67,7 @@ To run CodeHunt locally, follow these steps:
 
 ###  Contribution Guidelines
 
-We welcome contributions from the community. If you'd like to contribute to CodeHunt, please follow these steps:
+We welcome contributions from the community. If you'd like to contribute to  flexicart, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name`
@@ -76,9 +76,5 @@ We welcome contributions from the community. If you'd like to contribute to Code
 5. Create a pull request to the main repository.
 
 ###  License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
-
-Feel free to use this README.md template as a starting point for your project. Make sure to update the content with specific details related to your CodeHunt website and customize it further to suit your needs.
+Feel free to use this README.md template as a starting point for your project. Make sure to update the content with specific details related to your flexicart website and customize it further to suit your needs.
